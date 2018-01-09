@@ -1,2 +1,2 @@
 # exercise2
-Day4-eercise2
+Day4-exercise2
